@@ -1,2 +1,2 @@
 # Fish-MQ
-The fishy message queue
+A fishy message queue (is there any other ;))
